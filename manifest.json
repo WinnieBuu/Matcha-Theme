@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "YOUR_SNIPPET_ID",
-  "name": "YOUR_SNIPPET_NAME",
-  "author": "YOUR_NAME",
+  "id": "Matcha_Theme",
+  "name": "Matcha_Light_Theme",
+  "author": "Nguyen",
   "repoUrl": "",
   "version": {
     "major": 0,
@@ -11,7 +11,7 @@
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "YOUR_SNIPPET_DESCRIPTION",
+  "description": "A light and fun matcha theme for Remnote",
   "requestNative": false,
   "requiredScopes": [
     {
