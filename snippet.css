@@ -1,1 +1,142 @@
 /* Add your custom styles here. See the docs for help: https://plugins.remnote.com/custom-css */
+.rn-document {
+    background-color: #E9F5DB;
+    }
+.rn-pane__body {
+    color: ;
+    background-color: #E9F5DB;
+    }
+.rn-clr-background-primary {
+    background-color: #E9F5D8;
+    }
+.rn-clr-background-secondary {
+    background-color: #E9F5DB;
+    }   
+.rn-sidebar-counter {
+    color: red;
+    background-color: #E9F5D8;
+    }     
+.rn-clr-background-accent {
+    color: #FEFAE0;
+    background-color: #606C38;
+    }    
+.TreeNode {
+     border-color: #ff5555 !important ;
+     }
+.TreeNode .TreeNode {
+     border-color:#ffb86c !important ;    
+     }
+.TreeNode .TreeNode .TreeNode {
+     border-color: #f1fa8c !important ;    
+     }
+.TreeNode .TreeNode .TreeNode .TreeNode  {
+     border-color: #50fa7b !important ;    
+     }
+.TreeNode .TreeNode .TreeNode .TreeNode .TreeNode  {
+     border-color: #8be9fd !important ;    
+     }
+.TreeNode .TreeNode .TreeNode .TreeNode .TreeNode .TreeNode   {
+     border-color: #ff79c6 !important ;   
+     }
+
+.rn-document {
+    font-family: ;
+    color: #31572C;
+    }
+.rn-editor__rem__body__text {
+    font-family: ;
+    }    
+.rn-clr-content-primary {
+    color: #124559;
+    }
+.rn-clr-content-secondary {
+    color: #598392;
+    }
+.rn-clr-content-accent {
+    color: ;
+    }
+.rn-editor__rem__body__text--h1 {
+    font-family: ;
+    font-weight: normal;
+    color: #124559;
+    }
+.rn-editor__rem__body__text--h2 {
+    font-family: ;
+    font-weight: normal;
+    color: #598392;
+    }
+.rn-editor__rem__body__text--h3 {
+    font-family: ;
+    font-weight: normal;
+    color: #595D91;
+    }
+.rn-rem-bullet {
+    color: #606C38;
+    }
+    
+.highlight-color--red, .pdf-viewer__highlight-container--red .AreaHighlight, .pdf-viewer__highlight-container--red .Highlight__part {
+	background-color: #F82553;
+        border-radius: 35px;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-color: rgba(0, 0, 0,0.0);
+        border-width: 6px;
+    }  
+    
+.highlight-color--orange, .pdf-viewer__highlight-container--orange .AreaHighlight, .pdf-viewer__highlight-container--orange .Highlight__part {
+	background-color: #F2542D;
+        border-radius: 35px;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-color: rgba(0, 0, 0,0.0);
+        border-width: 6px;
+    } 
+       
+.highlight-color--yellow, .pdf-viewer__highlight-container--yellow .AreaHighlight, .pdf-viewer__highlight-container--yellow .Highlight__part {
+	background-color: #FFFF00;
+        border-radius: 35px;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-color: rgba(0, 0, 0,0.0);
+        border-width: 6px;
+    }  
+    
+.highlight-color--green, .pdf-viewer__highlight-container--green .AreaHighlight, .pdf-viewer__highlight-container--green .Highlight__part {
+	background-color: #76FF61;
+        border-radius: 35px;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-color: rgba(0, 0, 0,0.0);
+        border-width: 6px; 
+    }    
+
+.highlight-color--blue, .pdf-viewer__highlight-container--blue .AreaHighlight, .pdf-viewer__highlight-container--blue .Highlight__part {
+	background-color: #0aefff;
+        border-radius: 35px;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-color: rgba(0, 0, 0,0.0);
+        border-width: 6px;   
+    }    
+    
+.highlight-color--purple, .pdf-viewer__highlight-container--purple .AreaHighlight, .pdf-viewer__highlight-container--purple .Highlight__part {
+        color: white;
+	background-color: #6434E9;
+        border-radius: 35px;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-color: rgba(0, 0, 0,0.0);
+        border-width: 6px; 
+    } 
+
+.text-color--red { color: #FF0000; }
+
+.text-color--orange { color: #FF8000; }
+
+.text-color--yellow { color: #FFBA08; }
+
+.text-color--green { color: #51C47F; }
+
+.text-color--blue { color: #0aefff; }
+
+.text-color--purple { color: #5723E7; }      
